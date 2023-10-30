@@ -1,5 +1,5 @@
 {
-    "name": "supover/wish-php-sdk",
+    "name": "vutbay/wish-php-sdk",
     "homepage":"http://merchant.wish.com/api/documentation",
     "description": "A PHP SDK for Wish merchants",
     "keywords":["wish","php","sdk","merchant"],
